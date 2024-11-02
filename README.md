@@ -1,11 +1,11 @@
 # Software IPREV-Santos
 
-Trabalho desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto Integrador em Computação I, DRP02, Turma 001, Grupo 006.
+Trabalho desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto Integrador em Computação II, DRP02, Turma 002, Grupo 014.
 <br><br><br>
 
 ## Descrição
 
-O projeto foi desenvolvido como parte do Projeto Integrador em Computação I na UNIVESP. Ele visa o desenvolvimento de ferramenta em Framework WEB que possibilite o cálculo da correção monetária em processos judiciais dentro um órgão público (IPREV-Santos), buscando promover a celeridade e a segurança dos mesmos.
+O projeto foi desenvolvido como parte do Projeto Integrador em Computação II na UNIVESP, no qual o grupo optou por fazer melhorias no sistema desenvolvido no PI1. Aprimoramos um sistema web com utilização de ferramenta em framework web com objetivo de realizar o cálculo da correção monetária em processos judiciais dentro um órgão público (IPREV-Santos), buscando promover a celeridade e a segurança dos mesmos.
 <br><br><br>
 
 ## Tecnologias utilizadas
@@ -22,7 +22,7 @@ O projeto foi desenvolvido como parte do Projeto Integrador em Computação I na
 ## Disciplina
 
 - **Nome**: Projeto Integrador em Computação I - DRP02 
-- **Turma**: 001 - Projeto Integrador em Computação I - Grupo: 006
+- **Turma**: 002 - Projeto Integrador em Computação II - Grupo: 014
 <br><br><br>
 
 ## Participantes
@@ -30,6 +30,7 @@ O projeto foi desenvolvido como parte do Projeto Integrador em Computação I na
 - Dayane da Silva
 - Diana Keli Rufino da Silva
 - Francieli Brito da Silva Luchetta
+- Lourival Rodrigues de Carvalho Junior
 - Maria José de Oliveira Peres
 - Michele da Silva Luchetta Assunção
 - Rafael Fachini Moratelli
@@ -38,5 +39,5 @@ O projeto foi desenvolvido como parte do Projeto Integrador em Computação I na
 
 ## Orientadora
 
-Lucelma Maria dos Santos Cunha
+Ingrid Ellen de Oliveira
 <br><br>
