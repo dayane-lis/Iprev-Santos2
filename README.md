@@ -21,7 +21,7 @@ O projeto foi desenvolvido como parte do Projeto Integrador em Computação II n
 
 ## Disciplina
 
-- **Nome**: Projeto Integrador em Computação I - DRP02 
+- **Nome**: Projeto Integrador em Computação II - DRP02 
 - **Turma**: 002 - Projeto Integrador em Computação II - Grupo: 014
 <br><br><br>
 
