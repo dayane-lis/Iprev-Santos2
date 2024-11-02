@@ -5,7 +5,7 @@ Trabalho desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto
 
 ## Descrição
 
-O projeto foi desenvolvido como parte do Projeto Integrador em Computação II na UNIVESP, no qual o grupo optou por fazer melhorias no sistema desenvolvido no PI1. Aprimoramos um sistema web com utilização de ferramenta em framework web com objetivo de realizar o cálculo da correção monetária em processos judiciais dentro um órgão público (IPREV-Santos), buscando promover a celeridade e a segurança dos mesmos.
+O projeto foi desenvolvido como parte do Projeto Integrador em Computação II na UNIVESP, no qual o grupo optou por fazer melhorias no sistema desenvolvido no PI1. Aprimoramos um sistema web com utilização de ferramenta em framework web com objetivo de realizar o cálculo da correção monetária em processos judiciais dentro de um órgão público (IPREVSANTOS), buscando promover a celeridade e a segurança dos mesmos.
 <br><br><br>
 
 ## Tecnologias utilizadas
