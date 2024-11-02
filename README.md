@@ -1,4 +1,4 @@
-# Software IPREV-Santos
+# Software IPREV-Santos2
 
 Trabalho desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto Integrador em Computação II, DRP02, Turma 002, Grupo 014.
 <br><br><br>
