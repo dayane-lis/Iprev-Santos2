@@ -1,3 +1,6 @@
+<img align="top" src="./img/iprevsantos.png" width="200px" />
+
+
 # Software IPREV-Santos2
 
 Trabalho desenvolvido para o Projeto Integrador da UNIVESP na disciplina Projeto Integrador em Computação II, DRP02, Turma 002, Grupo 014.
